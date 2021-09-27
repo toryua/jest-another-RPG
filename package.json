@@ -1,0 +1,23 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toryua/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toryua/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/toryua/jest-another-RPG#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.2.2"
+  }
+}
